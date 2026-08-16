@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:14:56.715Z",
+  "generated_at": "2026-10-15T09:14:58.949Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -242,6 +242,80 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-08-15T12:15:33.528Z",
       "last_pushed_at": "2026-08-15T12:15:33.528Z"
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-08-16T08:55:47.261Z",
+      "last_pushed_at": "2026-08-16T08:55:47.261Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-08-16T09:15:09.619Z",
+      "last_pushed_at": "2026-08-16T09:15:09.619Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-08-16T09:59:30.974Z",
+      "last_pushed_at": "2026-08-16T09:59:30.974Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-08-16T10:13:19.132Z",
+      "last_pushed_at": "2026-08-16T10:13:19.132Z",
+      "language": "python",
+      "lines": 16
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-08-16T11:18:49.557Z",
+      "last_pushed_at": "2026-08-16T11:18:49.557Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-08-16T13:12:56.518Z",
+      "last_pushed_at": "2026-08-16T13:12:56.518Z"
     }
   }
 }
