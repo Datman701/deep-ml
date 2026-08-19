@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:15:01.464Z",
+  "generated_at": "2026-10-15T09:15:03.950Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -470,6 +470,156 @@
       "last_pushed_at": "2026-08-17T13:16:20.311Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-08-19T06:59:50.504Z",
+      "last_pushed_at": "2026-08-19T06:59:50.504Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:884": {
+      "kind": "problem",
+      "id": "884",
+      "title": "Compute a Gradient with PyTorch Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/884",
+      "path": "problems/0884-compute-a-gradient-with-pytorch-autograd",
+      "first_solved_at": "2026-08-19T07:07:31.538Z",
+      "last_pushed_at": "2026-08-19T07:07:31.538Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1224": {
+      "kind": "problem",
+      "id": "1224",
+      "title": "Single Linear Neuron Forward",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1224",
+      "path": "problems/1224-single-linear-neuron-forward",
+      "first_solved_at": "2026-08-19T09:34:53.364Z",
+      "last_pushed_at": "2026-08-19T09:34:53.364Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:1225": {
+      "kind": "problem",
+      "id": "1225",
+      "title": "Two-Layer MLP Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1225",
+      "path": "problems/1225-two-layer-mlp-forward-pass",
+      "first_solved_at": "2026-08-19T09:58:48.661Z",
+      "last_pushed_at": "2026-08-19T09:58:48.661Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:1226": {
+      "kind": "problem",
+      "id": "1226",
+      "title": "Implement ReLU and Leaky ReLU",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1226",
+      "path": "problems/1226-implement-relu-and-leaky-relu",
+      "first_solved_at": "2026-08-19T10:08:09.122Z",
+      "last_pushed_at": "2026-08-19T10:08:09.122Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-08-19T10:30:02.146Z",
+      "last_pushed_at": "2026-08-19T10:30:02.146Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-08-19T10:34:42.963Z",
+      "last_pushed_at": "2026-08-19T10:34:42.963Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:1229": {
+      "kind": "problem",
+      "id": "1229",
+      "title": "Binary Cross-Entropy from Logits",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1229",
+      "path": "problems/1229-binary-cross-entropy-from-logits",
+      "first_solved_at": "2026-08-19T11:11:01.685Z",
+      "last_pushed_at": "2026-08-19T11:11:01.685Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-08-19T11:25:47.759Z",
+      "last_pushed_at": "2026-08-19T11:25:47.759Z",
+      "language": "python",
+      "lines": 12
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-08-19T16:18:47.036Z",
+      "last_pushed_at": "2026-08-19T16:18:47.036Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-08-19T16:44:48.980Z",
+      "last_pushed_at": "2026-08-19T16:44:48.980Z"
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-08-19T19:21:33.604Z",
+      "last_pushed_at": "2026-08-19T19:21:33.604Z"
     }
   }
 }
