@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 34 problems · 1 labs · 15 math
+**53** solved · 34 problems · 1 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,11 +66,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-08-12 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-08-19 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-08-16 | [solution](math/0011-determinants-and-trace) |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-08-23 | [solution](math/0012-inverse-and-rank) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-08-17 | [solution](math/0038-log-likelihood-gradients) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-08-19 | [solution](math/0035-matrix-calculus-identities) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-08-12 | [solution](math/0010-matrix-multiplication) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-08-19 | [solution](math/0003-neural-network-derivatives) |
+| [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-08-23 | [solution](math/0014-orthogonality-and-projections) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-08-16 | [solution](math/0032-softmax-and-cross-entropy) |
+| [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-08-23 | [solution](math/0013-solving-linear-systems) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-08-12 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
