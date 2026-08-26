@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:15:06.425Z",
+  "generated_at": "2026-10-15T09:15:08.530Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -653,6 +653,45 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-08-23T09:11:51.059Z",
       "last_pushed_at": "2026-08-23T09:11:51.059Z"
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-08-26T09:41:38.755Z",
+      "last_pushed_at": "2026-08-26T09:41:38.755Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:25": {
+      "kind": "problem",
+      "id": "25",
+      "title": "Single Neuron with Backpropagation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/25",
+      "path": "problems/0025-single-neuron-with-backpropagation",
+      "first_solved_at": "2026-08-26T11:14:42.004Z",
+      "last_pushed_at": "2026-08-26T11:14:42.004Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2026-08-26T13:42:53.858Z",
+      "last_pushed_at": "2026-08-26T13:42:53.858Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }

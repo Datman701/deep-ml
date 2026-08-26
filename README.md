@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 34 problems · 1 labs · 18 math
+**56** solved · 37 problems · 1 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-12 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-08-17 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-08-19 | [solution](problems/1224-single-linear-neuron-forward) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-08-26 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-17 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-12 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-08-12 | [solution](problems/0121-vector-element-wise-sum) |
@@ -45,7 +46,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-08-17 | [solution](problems/0219-derivative-of-softmax) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-08-19 | [solution](problems/1227-numerically-stable-softmax) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-15 | [solution](problems/0312-quotient-rule-for-derivatives) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-08-26 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-08-19 | [solution](problems/1225-two-layer-mlp-forward-pass) |
+| [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-08-26 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 
 ## Labs
 
