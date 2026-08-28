@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**57** solved · 38 problems · 1 labs · 18 math
+**58** solved · 39 problems · 1 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-08-19 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-08-17 | [solution](problems/0219-derivative-of-softmax) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-08-27 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-08-28 | [solution](problems/0313-numerical-gradient-checking) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-08-19 | [solution](problems/1227-numerically-stable-softmax) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-08-15 | [solution](problems/0312-quotient-rule-for-derivatives) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-08-26 | [solution](problems/0025-single-neuron-with-backpropagation) |
