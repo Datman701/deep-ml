@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:15:12.818Z",
+  "generated_at": "2026-10-15T09:15:14.872Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -718,6 +718,45 @@
       "last_pushed_at": "2026-08-28T13:37:22.893Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-08-29T10:57:37.022Z",
+      "last_pushed_at": "2026-08-29T10:57:37.022Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:898": {
+      "kind": "problem",
+      "id": "898",
+      "title": "Backprop a Linear Layer by Hand",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/898",
+      "path": "problems/0898-backprop-a-linear-layer-by-hand",
+      "first_solved_at": "2026-08-29T11:59:25.842Z",
+      "last_pushed_at": "2026-08-29T11:59:25.842Z",
+      "language": "python",
+      "lines": 10
+    },
+    "lab:4": {
+      "kind": "lab",
+      "id": "4",
+      "title": "MNIST: Classification Loss (with Gradient)",
+      "difficulty": "hard",
+      "category": "Loss Functions",
+      "url": "https://www.deep-ml.com/labs/4",
+      "path": "labs/0004-mnist-classification-loss-with-gradient",
+      "first_solved_at": "2026-08-29T12:48:56.961Z",
+      "last_pushed_at": "2026-08-29T12:48:56.961Z",
+      "language": "python",
+      "lines": 33
     }
   }
 }
