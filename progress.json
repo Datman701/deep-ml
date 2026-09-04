@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:15:17.092Z",
+  "generated_at": "2026-10-15T09:15:19.486Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -770,6 +770,30 @@
       "last_pushed_at": "2026-08-31T16:41:40.557Z",
       "language": "python",
       "lines": 49
+    },
+    "math:17": {
+      "kind": "math",
+      "id": "17",
+      "title": "Covariance and Correlation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/17",
+      "path": "math/0017-covariance-and-correlation",
+      "first_solved_at": "2026-09-04T05:55:50.456Z",
+      "last_pushed_at": "2026-09-04T05:55:50.456Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-09-04T11:42:00.172Z",
+      "last_pushed_at": "2026-09-04T11:42:00.172Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
