@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 44 problems · 2 labs · 19 math
+**66** solved · 45 problems · 2 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-12 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-08-19 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-09-28 | [solution](problems/0146-momentum-optimizer) |
+| [Nesterov Accelerated Gradient Optimizer](https://www.deep-ml.com/problems/150) | easy | 2026-09-30 | [solution](problems/0150-nesterov-accelerated-gradient-optimizer) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-08-19 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-12 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-08-17 | [solution](problems/0022-sigmoid-activation-function-understanding) |
